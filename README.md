@@ -412,6 +412,8 @@ Ao acessar o site https://jsfiddle.net/ você terá acesso as seguintes informa�
 7. Result é o resultado do seu código, no caso tudo que seria visto em um navegador ou abrir seu código.
 8. Console permite, assim como no navegador, ver os resultados do Javascript e saídas de console.log(). Se seu console não estiver disponível para visualização experiente puxar a barra inferior do Result para cima.
 
+> OBS: para criar seus JS Fiddle, você precisa criar uma conta no site, mas é um processo bem simples e rápido.
+
 ### Meu primeiro desafio
 
 Como primeira missão nessa ferramenta, você pode explorar esse JsFiddle https://jsfiddle.net/tijacque/nhar97vg/37/ e ver como ele executa no console, tentar reproduzir e até explicar para você mesmo(a) usando as suas palavras.
