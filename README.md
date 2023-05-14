@@ -401,7 +401,7 @@ A ferramenta jdfiddle.net é uma ferramenta bem legal para quem esta iniciando o
 
 Ao acessar o site https://jsfiddle.net/ você terá acesso as seguintes informações:
 
-![image-20230514175326097](C:\Users\tijac\AppData\Roaming\Typora\typora-user-images\image-20230514175326097.png)
+![image js fiddle](https://github.com/jacquelinesantana/fundamentos_javascript/blob/main/jsfiddle.png)
 
 1. A guia HTML permite que você escreva seu código em HTML com as tags e propriedades necessárias, lembrando que ao utilizar imagens em sua página, opte por usar uma imagem da internet, ou subir sua imagem em algum servidor de imagens e usar o link dessa imagem hospedada.
 2. A guia Javascript permite você escrever seus Scripts e inclusive incluir eventos aos elementos do seu HTML.
