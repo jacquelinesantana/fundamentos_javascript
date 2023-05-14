@@ -395,3 +395,67 @@ function mapaNormal() {
 }
 ```
 
+## Fundamentos Javascript com prática - https://jsfiddle.net/
+
+A ferramenta jdfiddle.net é uma ferramenta bem legal para quem esta iniciando os primeiros passos em Javascript e deseja compartilhar suas soluções ou ver como outras pessoas estão elaborando suas soluções, vou a seguir explicar seu funcionamento e também como você pode usar o meu repositório publico para avançar nos seus estudos, também aceito novos desafios. Meu Linkedin para conversarmos é: https://www.linkedin.com/in/hernandesjacque/
+
+Ao acessar o site https://jsfiddle.net/ você terá acesso as seguintes informações:
+
+![image-20230514175326097](C:\Users\tijac\AppData\Roaming\Typora\typora-user-images\image-20230514175326097.png)
+
+1. A guia HTML permite que você escreva seu código em HTML com as tags e propriedades necessárias, lembrando que ao utilizar imagens em sua página, opte por usar uma imagem da internet, ou subir sua imagem em algum servidor de imagens e usar o link dessa imagem hospedada.
+2. A guia Javascript permite você escrever seus Scripts e inclusive incluir eventos aos elementos do seu HTML.
+3. A guia CSS permite que você crie uma folha de estilo para a sua página.
+4. Botão Salvar permite que você salve essa página e tenha um link de compartilhamento do mesmo.
+5. Em Untitled você pode informar um nome para essa página e ter maior organização para os seus trabalhos.
+6. Botão Run, permite executar os códigos digitados e ver o resultado em seu navegador.
+7. Result é o resultado do seu código, no caso tudo que seria visto em um navegador ou abrir seu código.
+8. Console permite, assim como no navegador, ver os resultados do Javascript e saídas de console.log(). Se seu console não estiver disponível para visualização experiente puxar a barra inferior do Result para cima.
+
+### Meu primeiro desafio
+
+Como primeira missão nessa ferramenta, você pode explorar esse JsFiddle https://jsfiddle.net/tijacque/nhar97vg/37/ e ver como ele executa no console, tentar reproduzir e até explicar para você mesmo(a) usando as suas palavras.
+
+Leia com atenção as anotações e boa atividade.
+
+### Como estudar através dos JSfiddle?
+
+Para seguir se desafiando cada vez mais, acesse o link: https://jsfiddle.net/user/fiddles/all/, aqui é bem fácil o estudo, basta ir seguindo realmente cada exercício pela ordem crescente:
+
+[01 - Javascript Introdução e conceitos](https://jsfiddle.net/tijacque/nhar97vg/37/)
+
+[02 - Javascript funções](https://jsfiddle.net/tijacque/0817jhg2/25/)
+
+[03 - converter dados em variavel](https://jsfiddle.net/tijacque/Lwh83sby/35/)
+
+[04 - constantes e identificar erros.](https://jsfiddle.net/tijacque/w6zgjunx/6/)
+
+[05 - Operadores aritméticos ](https://jsfiddle.net/tijacque/bpqanx9t/39/)
+
+[06 - Auto Increment - Decrement](https://jsfiddle.net/tijacque/uwx3sy01/15/)
+
+[07 - Operadores relacionais](https://jsfiddle.net/tijacque/nyfu9kod/1/)
+
+[08 - Operadores lógicos](https://jsfiddle.net/tijacque/0dnkva2t/1/)
+
+[09 - testes lógicos](https://jsfiddle.net/tijacque/fmck5eas/2/)
+
+[10 - Objeto Literal e coleção de objetos](https://jsfiddle.net/tijacque/y05gamuk/26/)
+
+[11 - Datas](https://jsfiddle.net/tijacque/6c21phny/39/)
+
+[12 - Inputs em Javascript](https://jsfiddle.net/tijacque/13vhj6rk/29/)
+
+[13 - Tratar dados recebidos pelo readline JS](https://jsfiddle.net/tijacque/2ou5rtyj/8/)
+
+[14 - array](https://jsfiddle.net/tijacque/grbyn6f5/24/)
+
+[15 - estrutura de repetição](https://jsfiddle.net/tijacque/7sax6dko/13/)
+
+[16 - date](https://jsfiddle.net/tijacque/xbgh59az/22/)
+
+[17 - Converter datas](https://jsfiddle.net/tijacque/hL0y9ero/28/)
+
+[18 - funções](https://jsfiddle.net/tijacque/9wsgoayr/14/)
+
+[19 - Arrow function](https://jsfiddle.net/tijacque/bzwypL4v/25/)
